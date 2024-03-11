@@ -7,4 +7,3 @@
 
 - If the category id in Product is exist in category dataset then the assigned category is valid.
 
-![Image Alt Text](./product-management-ecommerce-table.png)
